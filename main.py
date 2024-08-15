@@ -3,7 +3,7 @@ import itertools
 import string
 
 # Define the PDF file path
-pdf_file = r'C:\Users\RIO\Desktop\software Kasir\juni2024.pdf'
+pdf_file = r'C:\Users\BLA\Desktop\juni2024.pdf'
 
 def try_password(pdf_file, password):
     try:
